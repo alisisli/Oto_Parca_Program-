@@ -1,0 +1,16 @@
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Oto Servis Programı\Oto Servis Programı\bin\Debug\Oto Servis Programı.exe.config
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Oto Servis Programı\Oto Servis Programı\bin\Debug\Oto Servis Programı.exe
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Oto Servis Programı\Oto Servis Programı\bin\Debug\Oto Servis Programı.pdb
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Oto Servis Programı\Oto Servis Programı\obj\Debug\Oto Servis Programı.csproj.AssemblyReference.cache
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Oto Servis Programı\Oto Servis Programı\obj\Debug\Oto_Servis_Programı.Login.resources
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Oto Servis Programı\Oto Servis Programı\obj\Debug\Oto_Servis_Programı.Menu.resources
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Oto Servis Programı\Oto Servis Programı\obj\Debug\Oto_Servis_Programı.Properties.Resources.resources
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Oto Servis Programı\Oto Servis Programı\obj\Debug\Oto_Servis_Programı.YeniIslem.resources
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Oto Servis Programı\Oto Servis Programı\obj\Debug\Oto Servis Programı.csproj.GenerateResource.cache
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Oto Servis Programı\Oto Servis Programı\obj\Debug\Oto Servis Programı.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Oto Servis Programı\Oto Servis Programı\obj\Debug\Oto Servis Programı.exe
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Oto Servis Programı\Oto Servis Programı\obj\Debug\Oto Servis Programı.pdb
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Oto Servis Programı\Oto Servis Programı\obj\Debug\Oto_Servis_Programı.GecmisIslemler.resources
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Oto Servis Programı\Oto Servis Programı\obj\Debug\Oto_Servis_Programı.Musteri.resources
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Oto Servis Programı\Oto Servis Programı\obj\Debug\Oto_Servis_Programı.Ayarlar.resources
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Oto Servis Programı\Oto Servis Programı\obj\Debug\Oto_Servis_Programı.Stok.resources
